@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Iskra 2</string>
+    <string name="button_log">Zaloguj</string>
+    <string name="place_log">Podaj login</string>
+    <string name="place_pss">Podaj haslo</string>
+    <string name="error_log">Podano nieprawidłowy login lub haslo</string>
+    <string name="noerror_log">Logowanie pomyslne</string>
+    <string name="bigerror_log">Błąd serwera</string>
+    <string name="info_token">Przyłóż token NFC z tyłu urządzenia</string>
+    <string name="note">Notatka koordynatora</string>
+    <string name="name">Imie:</string>
+    <string name="subname">Nazwisko:</string>
+    <string name="tel">Telefon:</string>
+    <string name="un">Unwersytet:</string>
+    <string name="note2">Notatka:</string>
+    <string name="key">Klucz:</string>
+
+</resources>

@@ -1,0 +1,1 @@
+include ':app', ':json-20180130-javadoc', ':commons-io-2.6', ':commons-io-2.6.5'
